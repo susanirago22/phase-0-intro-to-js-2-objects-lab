@@ -1,6 +1,6 @@
-/var employee = {
-    name:"sam",
-    streetAddress:"11 Broadway"
+var employee = {
+    name:"Sam",
+    streetAddress : "11 Broadway"
 }
 function updateEmployeeWithKeyAndValue(employee,key,value)
 {
